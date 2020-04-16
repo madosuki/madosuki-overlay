@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>madosuki-overlay</name>
+    <description>madoski's personal overlay repository</description>
+    <homepage>https://github.com/madosuki/madosuki-overlay</homepage>
+    <owner>
+      <email>yurikasmaaikatsu@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/madosuki/madosuki-overlay.git</source>
+  </repo>
+</repositories>
