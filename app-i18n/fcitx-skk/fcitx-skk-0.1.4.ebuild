@@ -11,5 +11,5 @@ LICENSE="GPL-3"
 KEYWORDS="~amd64"
 SLOT="0"
 
-DEPEND=">=app-i18n/fcitx-4.2.8 app-i18n/libskk app-18n/skk-jisyo"
+DEPEND=">=app-i18n/fcitx-4.2.8 app-i18n/libskk app-i18n/skk-jisyo"
 RDEPEND="${DEPEND}"
